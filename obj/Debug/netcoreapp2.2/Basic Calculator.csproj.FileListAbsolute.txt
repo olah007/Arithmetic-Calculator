@@ -1,0 +1,11 @@
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\bin\Debug\netcoreapp2.2\Basic Calculator.deps.json
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\bin\Debug\netcoreapp2.2\Basic Calculator.runtimeconfig.json
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\bin\Debug\netcoreapp2.2\Basic Calculator.runtimeconfig.dev.json
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\bin\Debug\netcoreapp2.2\Basic Calculator.dll
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\bin\Debug\netcoreapp2.2\Basic Calculator.pdb
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\obj\Debug\netcoreapp2.2\Basic Calculator.csprojAssemblyReference.cache
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\obj\Debug\netcoreapp2.2\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\obj\Debug\netcoreapp2.2\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\obj\Debug\netcoreapp2.2\Basic Calculator.AssemblyInfo.cs
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\obj\Debug\netcoreapp2.2\Basic Calculator.dll
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Basic Calculator\obj\Debug\netcoreapp2.2\Basic Calculator.pdb
